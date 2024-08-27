@@ -1,0 +1,19 @@
+.top{
+    background-color: #1ABC9C;
+}
+
+body{
+    background-color: #C2A67E !important;
+}
+
+#navbar-example2{
+    background-color: #1ABC9C !important;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+a{
+    background-color: #C2A67E !important;
+    color:  white !important;
+    margin: 10px;
+}
