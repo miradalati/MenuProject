@@ -1,5 +1,5 @@
 .top{
-    background-color: #1ABC9C;
+    background-color: #1ABC9C !important;
 }
 
 body{
@@ -17,3 +17,4 @@ a{
     color:  white !important;
     margin: 10px;
 }
+
